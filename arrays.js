@@ -67,19 +67,10 @@
 // let arrnum = cars.concat(numbers)
 // console.log(arrnum)
 
-// let cars = ['bmw', 'vw', 'toyota', 'mazda']
-// console.log(cars)
+let cars = ['bmw', 'vw', 'toyota', 'mazda']
 // console.log(cars.length)
+// // console.log(cars)
 
 
-myVideo = {
-    title: 'description of objects in javascript',
-    duration: '37'
-    
-    
-}
-console.log(myVideo);
-console.log(`hey new video on ${myVideo.title}`);
-
-
+console.log(cars[3]);
 
