@@ -56,15 +56,4 @@
 // let secret = ' password ';
 //  console.log(secret.trim(' '));
 
-// let jjj = 'kiwi'
-// let lll = 'strowberry'
-// if (jjj === lll) {
-//             console.log('same')
-// } else {
-//     console.log('not')
-    
-// }
-
-let myWay = 'one aaaaaaway';
-console.log(myWay.replace(/a/g, 'u'));
-
+/
