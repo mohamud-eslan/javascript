@@ -14,5 +14,27 @@
 // 20 wpm and less than 20 errors in penguin game
 // 20 wpm and less than 20 errors in html practice
 
+let country = {
+//     somalia:{
+//         population: 15000000,
+//         language: 'somali',
+//         climate: 'moderate',
+//         currency: 'shilling'
 
+
+//     }
+// }
+// // console.log(country.somalia.language)
+// country = {
+//     economy:{
+//         liveslock: '3m',
+//         fishing: '10m',
+//         farms: '2m'
+//     }
+// }
+// // console.log(country)
+// country.economy['export1'] = '10m'
+// console.log(country)
+// delete country.economy.farms
+// console.log(country)
 

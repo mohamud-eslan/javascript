@@ -3,7 +3,7 @@
 // ++ increment
 // -- decrement
 
-let num = 8
+// let num = 8
 // console.log(5 / 2)
 // console.log(6 % 2);
 // console.log(num); // 8
@@ -38,7 +38,7 @@ let num = 8
 // console.log(remainder);
 
 // // power or square
-// console.log(5**2);
+ console.log(5**2);
 
 
 // TODO: 
@@ -46,18 +46,18 @@ let num = 8
 // revisit videos of  "javascript operators increment decrement"
 
 
-let isVerified = true;
-let isLoggedIn = true;
-let isGuest = true;
-if (isVerified && isLoggedIn) {
-    console.log('message: welcome');
-    console.log('give access');
+// let isVerified = true;
+// let isLoggedIn = true;
+// let isGuest = true;
+// if (isVerified && isLoggedIn) {
+//     console.log('message: welcome');
+//     console.log('give access');
     
-} else if(isGuest || isLoggedIn){
-    console.log('welcome');
+// } else if(isGuest || isLoggedIn){
+//     console.log('welcome');
     
-}else{
-    console.log('sorry');
-}
+// }else{
+//     console.log('sorry');
+// }
 
 

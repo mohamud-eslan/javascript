@@ -1,4 +1,4 @@
-let whoIsHere ='user';
+let whoIsHere ='';
 
 if(whoIsHere==='user'){
     console.log('greeting: welcome');
@@ -9,5 +9,5 @@ if(whoIsHere==='user'){
     console.log('allow access to his coures');
 
 }else
-console.log('sorry');
+console.log('sorry sign up');
 
