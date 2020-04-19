@@ -3,8 +3,9 @@
 // 20 wpm and less than 20 errors in html practice
 // try to improve your self learning skills
 
-// forloop
-// revist w3chools and 3 videos 'forloop in javascript'
-// arr [1,2, ..... ,100] print tens, 10, 20, 30, 40, ... 90
-// str = 'Hi my name is Mobamud' , print every charactor in string 
-// arr = [1, 2, 3, 4, 5], add 10 to every number in the array-> [11, 12, 13, 13, 15]
+// forloop and whileloop
+// print odd elelments in arr
+// print even element in arr
+// increase by 3 to every elements in array
+
+// w3schools, youtube 

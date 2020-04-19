@@ -24,22 +24,22 @@
 // console.log(fruit.indexOf('wecome'));
 
 // let password = "         1998                "
-// // console.log(password.trim());
-// let word = 'hel lo' // ['h', 'e', 'l', 'l', 'e']
-// // console.log(word.split(" "));
+//  console.log(password.trim());
+// let word = 'hello' // ['h', 'e', 'l', 'l', 'e']
+//  console.log(word.split(""));
 
-// var str = "How are you doing today?";
+ var str = "How are you doing today?";
 
-// //var res = str.split(" ", 3);
-// // console.log(str.slice(8, 17));
+// var res = str.split(" ", 3);
+//  console.log(str.slice(8, 17));
 
-// console.log(str[4]);
-// console.log(str.charAt(4));
+//  console.log(str[4]);
+//  console.log(str.charAt(4));
 
 // let aa = "aaa";
-// let bb = "bb"
+// let bb = "aaa"
 // // check if aa and bb have the same length
-// if (aa.length===bb.length) {
+// if (aa===bb) {
 //     console.log('same')
 // }else{
 //     console.log('not same')
@@ -49,11 +49,10 @@
 // let animals = 'camel';
 // let somanimal = ' cow';
 // let totalanimal = animals + somanimal
-// console.log(totalanimal);
-// console.log(totalanimal.split())
+//  console.log(totalanimal);
+//  console.log(totalanimal.split())
 
 
-// let secret = ' password ';
-//  console.log(secret.trim(' '));
+let secret = ' password ';
+ console.log(secret.trim(' '));
 
-/

@@ -19,11 +19,9 @@
 // let arrr = []
 // for(gg =0; gg <= 10; gg++)
 //     if(gg %2 == 0){
-//        arrr.push(gg) 
-//     }
-// console.log(arrr);
-
-
+    //        arrr.push(gg) 
+    // console.log(arrr);
+    //     }
 // // console.log(arrr); // [1,2,3 ... ,20]
 
 // // for(ff =0; ff<= 20; ff++){
@@ -37,7 +35,10 @@
 // for (var i =0; i <= 10; i++){
 //     console.log(i);
 // }
+let tar = [5,10,15,20]
 
-let tar = [1,2,3,4,5]
-tar.push[
-console.log(tar);
+for(dd = 0; dd <= 20; dd++){
+    if(dd**2 == 0)
+tar.push(dd);
+    
+}console.log(tar);

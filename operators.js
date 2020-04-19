@@ -3,9 +3,9 @@
 // ++ increment
 // -- decrement
 
-// let num = 8
-// console.log(5 / 2)
-// console.log(6 % 2);
+//  let num = 8
+//  console.log(5 / 2)
+//  console.log(6 % 2);
 // console.log(num); // 8
 
 // console.log(num++); // 8
@@ -17,16 +17,16 @@
 // num--
 // console.log(num); // 7
 
-// let age = 30
+ let age = 30
 // console.log(age)
 
 // age = age + 5
 // console.log(age)
 
-// age += 5
+//  age += 5
 // console.log(age)
 
-// age += 20
+// // age += 20
 
 // age  /= 2
 // age = age / 2
@@ -38,7 +38,7 @@
 // console.log(remainder);
 
 // // power or square
- console.log(5**2);
+  // console.log(5**2);
 
 
 // TODO: 

@@ -1,40 +1,57 @@
-// create objects
-// add items to obect
-// change item in object
-// access/ print item in object
-// remove item in object
-// nest objects
-// destructure
+// forloop
+// let aa = [2,5,9,6,4,2,1]
+// let num = 0
+// while(num <= aa.length-1){
+// 	if(aa[num] % 2 !== 0){
+// 		console.log(aa[num]);
+// 	}
+// 	num += 1
 
-// Learn Forlood javascript in w3chools
-// watch forloop in javascript in youtube
-// print all items in a list using forloop
-
-// the typing
-// 20 wpm and less than 20 errors in penguin game
-// 20 wpm and less than 20 errors in html practice
-
-let country = {
-//     somalia:{
-//         population: 15000000,
-//         language: 'somali',
-//         climate: 'moderate',
-//         currency: 'shilling'
-
-
-//     }
 // }
-// // console.log(country.somalia.language)
-// country = {
-//     economy:{
-//         liveslock: '3m',
-//         fishing: '10m',
-//         farms: '2m'
-//     }
+let arr = [1,3,4,5,33,6,5,6]
+for(let i = arr.length; i>=0; i--){
+	if(arr[i] % 2 !== 0){
+		console.log(arr[i])
+	}
+}
+
+// let ps = aa.length-1
+// while(ps >=0){
+// 	console.log(aa[ps]);
+// 	ps -= 1
 // }
-// // console.log(country)
-// country.economy['export1'] = '10m'
-// console.log(country)
-// delete country.economy.farms
-// console.log(country)
+
+// // let item = 0
+// // print 0 to 10
+// let i = 0
+// while(i <= aa.length -1){
+// 	aa[i] = aa[i] + 3
+// 	// if(aa[i] % 2 == 0){
+// 	// 	console.log(aa[i]);
+// 	// }
+// 	i += 1
+// }
+
+// console.log(aa);
+
+
+
+
+// while(position< 6){
+// 	console.log("position is: " + position);
+	
+// 	console.log("item is : ", aa[position]);
+// 	position += 1;
+// 	console.log("");
+	
+// }
+// console.log("----------------")
+// for (let position = 0; position < aa.length; position++) {
+// 	console.log("position is: " + position);
+	
+// 	console.log("item is : ", aa[position]);
+// 	console.log("");
+// }
+
+
 
