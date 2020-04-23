@@ -4,15 +4,4 @@
 // try to improve your self learning skills
 //
 
-// write a funciton
-
-// that takes 3 numbers and logs their sum
-
-// that takes 3 arrays, and logs one array that contains all three
-// addThreeArrays([1,2,3], [1,2,5], [6,9]) -> [1,2,3,1,2,5,6,9]
-
-// that takes a name and logs hellow plus the name you are given
-
-// that takes an array and prints even numbers
-
-// a funciton that takes an array and adds 5 to every element
+// write the farm problem from scratch, explain how you solve it

@@ -124,3 +124,49 @@ while(pos <=bb.length-1){
 for(i = bb.length-1; i>0; i--){
 	// console.log(bb[i])
 }
+// that takes 3 numbers and logs their sum
+
+
+// that takes 3 arrays, and logs one array that contains all three
+// addThreeArrays([1,2,3], [1,2,5], [6,9]) -> [1,2,3,1,2,5,6,9]
+
+// that takes a name and logs hellow plus the name you are given
+
+// that takes an array and prints even numbers
+
+
+function addthree(num1, num2, num3){
+    console.log(num1 + num2 + num3)
+}
+// addthree(1,2,3)
+
+function addThreeArrays(ff1, ff2, ff3){
+    let sumArraray = ff1.concat(ff2).concat(ff3)
+    console.log(sumArraray)
+}
+//addThreeArrays([1,2,], [1,2], [6,9])
+
+function findName(name){
+    console.log("hello ", name)
+}
+//findName("siyaad")
+
+function printEven(dd){
+    for(i = 0; i<=dd.length-1; i++){
+        if(dd[i] % 2 === 0){
+            console.log(dd[i])
+        }
+    }
+}
+
+
+//printEven([1,2,3,4,5,6]) // it should print 2, 4, 6
+
+// a funciton that takes an array and adds 5 to every element
+function addFive(mm){
+    for(i = 0; i<=mm.length-1; i++){
+       mm[i] = mm[i] + 5
+    }
+    console.log(mm)
+}
+addFive([1,3,4,5,7])
