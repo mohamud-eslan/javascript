@@ -54,7 +54,7 @@
 // slice a list
 // remove item from a list
 // what is the lenth of an array
-// check if item includes in array
+// check if item includes in array 
 
 
 //initializing list in an array

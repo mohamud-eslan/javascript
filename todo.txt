@@ -4,4 +4,7 @@
 // try to improve your self learning skills
 //
 
-// write the farm problem from scratch, explain how you solve it
+
+// function paramters
+// finish it freecodebootcamp
+// find another three videos on functions and paramters in javascript  

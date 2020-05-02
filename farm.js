@@ -1,11 +1,13 @@
 function animals(chicken, cows, pigs){
-    let chickenLegs = chicken * 2;
-    let cowLegs = cows * 4;
-    let pigLegs = pigs * 4;
-    
-    totalLegs = chickenLegs + cowLegs + pigLegs;
+    return (chicken * 2) + (cows * 4) + (pigs * 4)
 
-    return totalLegs;
+    // let chickenLegs = chicken * 2;
+    // let cowLegs = cows * 4;
+    // let pigLegs = pigs * 4;
+    
+    // totalLegs = chickenLegs + cowLegs + pigLegs;
+
+    // return totalLegs;
 }
 
 
