@@ -10,6 +10,6 @@ function isEvenOrOdd(numb){
         return "odd"
     }
 }
-console.log(isEvenOrOdd(3))
+console.log(isEvenOrOdd(5))
 console.log(isEvenOrOdd(146))
 console.log(isEvenOrOdd(19))

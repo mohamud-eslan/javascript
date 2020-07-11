@@ -1,15 +1,15 @@
 //Create the function that takes an array with objects and returns the sum of people's budgets.
 
 //Examples
-function getBudgets(arr){
+function getBudgets(array){
     let totalBudget = 0;
-    for(i = 0; i<arr.length; i++){
-        totalBudget = totalBudget +  arr[i].budget
+    for(i = 0; i<array.length; i++){
+        totalBudget = totalBudget +  array[i].budget
     }
   
     return totalBudget
 }
-
+ 
 console.log(getBudgets([
 { name: "John", age: 21, budget: 1 },
 { name: "Steve", age: 32, budget: 2 },
