@@ -6,3 +6,6 @@ console.log("Discounted percentage is" + DiscountPrice);
 displayDiscountPencentage = Math.round(DiscountPrice);
 console.log(displayDiscountPencentage + "% off");
 
+var result = listingPrice > sellingPrice;
+
+console.log(typeof result);

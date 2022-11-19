@@ -30,8 +30,8 @@
 
  var str = "How are you doing today?";
 
-// var res = str.split(" ", 3);
-//  console.log(str.slice(8, 17));
+ var res = str.split(" ", 3);
+  console.log(str.slice(8, 17));
 
 //  console.log(str[4]);
 //  console.log(str.charAt(4));
@@ -53,6 +53,6 @@
 //  console.log(totalanimal.split())
 
 
-let secret = ' password ';
- console.log(secret.trim(' '));
+//let secret = ' password ';
+ //console.log(secret.trim(' '));
 

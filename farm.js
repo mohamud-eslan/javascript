@@ -1,11 +1,11 @@
-function animals(chicken, cows, pigs){
-    return (chicken * 2) + (cows * 4) + (pigs * 4)
+function animals(chicken, cows, camels){
+    return (chicken * 2) + (cows * 4) + (camels * 4)
 
     // let chickenLegs = chicken * 2;
     // let cowLegs = cows * 4;
-    // let pigLegs = pigs * 4;
+    // let camelLegs = camels * 4;
     
-    // totalLegs = chickenLegs + cowLegs + pigLegs;
+    // totalLegs = chickenLegs + cowLegs + camelLegs;
 
     // return totalLegs;
 }
@@ -21,5 +21,5 @@ console.log(animals(5, 2, 8)) // ➞ 50
 // conceptual solutions:
 // tirada lo'da X 4 = 
 // tirada digaaga X 2 = 
-// tirada doffarka X 4 = 
+// tirada geela X 4 = 
 // waxaan iskuray lugaha guud

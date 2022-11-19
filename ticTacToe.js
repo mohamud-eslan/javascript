@@ -72,19 +72,19 @@
   }
    console.log(TicTacToe(
       [  
-    ["O", "O", "O"],
+    ["O", "u", "O"],
     ["O", "X", "O"],
     ["X", "O", "X"]
       ]
      ));
   console.log(TicTacToe([
-    ["O", "O", "O"],
+    ["E", "O", "O"],
     ["O", "X", "X"],
-    ["E", "X", "X"]
+    ["X", "X", "X"]
   ]));
   console.log(TicTacToe([
     ["X", "X", "O"],
-    ["O", "O", "X"],
+    ["O", "O", "O"],
     ["X", "X", "O"]
   ]));
   

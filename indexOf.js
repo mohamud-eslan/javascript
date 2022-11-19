@@ -5,15 +5,27 @@
 
 // The given array is ordered.
 
+// function search(arr, item) {
+//     for(pos = 0; pos < arr.length; pos++){
+//         let curentPos = arr[pos]
+//         //console.log(curentPos)
+//         if(curentPos === item){
+//             return pos
+//         }
+//     }
+//     return -1
+// }
 function search(arr, item) {
-    for(pos = 0; pos < arr.length; pos++){
-        let curentPos = arr[pos]
-        //console.log(curentPos)
-        if(curentPos === item){
-            return pos
+    for (let i = 0; i < arr.length; i++) {
+        let curentI = arr[i];
+        if (curentI === item) {
+            return i 
         }
+        else{
+            return -1
+        }
+        
     }
-    return -1
 }
   
 //   console.log(search([1,2,3,4],1))
