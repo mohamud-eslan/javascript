@@ -17,7 +17,7 @@
 // num--
 // console.log(num); // 7
 
- let age = 30
+ //let age = 30
 // console.log(age)
 
 // age = age + 5
@@ -59,5 +59,40 @@
 // }else{
 //     console.log('sorry');
 // }
+let nums = 20;
+    nums %= 5;
+//console.log(nums);
 
+// let isVerified = false;
+// let isLoggedIn = false;
+// let isGuest = false;
+// if(isVerified && isLoggedIn){
+//   console.log("you are successfully loggeg in");
+// }else if(isLoggedIn || isGuest){
+//   console.log("welcome guest");
+// }else{
+//   console.log("please login!");
+// }
+
+// let aa = []
+// let bb = ['name', 'age']
+// let cc = [ 1,2]
+
+// aa.push(bb)
+// aa.push(cc)
+
+// console.log(aa);
+
+
+
+
+
+
+let weelmadhan = [];
+let weelbuuxa = [1,2,3,4]
+let weelbuxa2 = ["war", 'taa', 'vaa', 'maa']
+
+weelmadhan.push(weelbuuxa);
+weelmadhan.push(weelbuxa2)
+console.log(weelmadhan);
 

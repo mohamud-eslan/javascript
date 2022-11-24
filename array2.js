@@ -1,2 +1,2 @@
-let cars = ["toyota",n"bmw". "vw", "ford"]
+let cars = ["toyota", "bmw", "vw", "ford"]
 console.log(cars)

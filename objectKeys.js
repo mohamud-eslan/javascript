@@ -36,18 +36,18 @@ const on = {
 
 
 
-// console.log(
-// [
-// ['name', 'age', 'location'],
+ console.log(
+ [
+['name', 'age', 'location'],
 
-// ['mohamed', 29, 'bellville']
-// ])
+['mohamed', 29, 'bellville']
+])
 
-// let aa = []
-// let bb = ['name', 'age']
-// let cc = [ 1,2]
+let aa = []
+let bb = ['name', 'age']
+let cc = [ 1,2]
 
-// aa.push(bb)
-// aa.push(cc)
+aa.push(bb)
+aa.push(cc)
 
-// console.log(aa);
+console.log(aa);
