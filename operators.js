@@ -88,11 +88,20 @@ let nums = 20;
 
 
 
-let weelmadhan = [];
-let weelbuuxa = [1,2,3,4]
-let weelbuxa2 = ["war", 'taa', 'vaa', 'maa']
+// let weelmadhan = [];
+// let weelbuuxa = [1,2,3,4]
+// let weelbuxa2 = ["war", 'taa', 'vaa', 'maa']
 
-weelmadhan.push(weelbuuxa);
-weelmadhan.push(weelbuxa2)
-console.log(weelmadhan);
+// weelmadhan.push(weelbuuxa);
+// weelmadhan.push(weelbuxa2)
+// console.log(weelmadhan);
+
+let x = function(){
+  console.log('i am called from inside a function');
+}
+let y = function(callback){
+  console.log('do something');
+  callback();
+}
+y(x);
 
